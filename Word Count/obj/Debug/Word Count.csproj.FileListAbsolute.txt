@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Word Count\Word Count\bin\Debug\Word Count.exe.config
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Word Count\Word Count\bin\Debug\Word Count.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Word Count\Word Count\bin\Debug\Word Count.pdb
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Word Count\Word Count\obj\Debug\Word Count.csprojResolveAssemblyReference.cache
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Word Count\Word Count\obj\Debug\Word Count.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Word Count\Word Count\obj\Debug\Word Count.pdb
